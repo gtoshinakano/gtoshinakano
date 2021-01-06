@@ -1,9 +1,9 @@
-### Hi there, I'm Toshi! [gtn.web.app][website] 👋
+### こんにちは 👋! I'm Toshi! [gtn.web.app][website]
 
 [![Website](https://img.shields.io/website?label=gtoshinakano.com&style=for-the-badge&url=https%3A%2F%gtoshinakano.com)](https://gtoshinakano.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gtoshinakano?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgtoshinakano&screen_name=gtoshinakano)
 
-## I'm a Familly Guy, Full Stack Developer, Entrepreneur!!
+## I'm Bazilian🇧🇷 Nikkei🇯🇵, Full Stack Developer, Entrepreneur!!
 
 - 🔭 I just finished an Overseas Exchange Program on Engineering: [Ros Bebop Research][ros-bebop]!
 - 🌱 I’m currently learning AI and Machine learning with JS
