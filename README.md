@@ -1,11 +1,11 @@
-### Hi there, I'm Toshi! Gabriel Toshinori Nakano [codeSTACKr][website] 👋
+### Hi there, I'm Toshi! [gtn.web.app][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=gtoshinakano.com&style=for-the-badge&url=https%3A%2F%gtoshinakano.com)](https://gtoshinakano.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gtoshinakano?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgtoshinakano&screen_name=gtoshinakano)
 
 ## I'm a Familly Guy, Full Stack Developer, Entrepreneur!!
 
-- 🔭 I just finished an Overseas Exchange Program on Engineering: [Ros Bebop Research][ros-research]!
+- 🔭 I just finished an Overseas Exchange Program on Engineering: [Ros Bebop Research][ros-bebop]!
 - 🌱 I’m currently learning AI and Machine learning with JS
 - 👯 I’m looking to work on web development projects
 - 🥅 2021 Goals: Work as programmer in a Digital Marketing Segment
@@ -90,8 +90,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://gtoshinakano.com
+[ros-bebop]: http://ros-bebop-research.vercel.app
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
