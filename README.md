@@ -14,7 +14,9 @@
 
 ### Latest Published Works
 ```Dec 2021``` [Gustavo Amaral NFT Collection ][nft-url]
+
 ```Jul 2021``` [Hokkaido Association NGO Event Promotion page][hokkaido-url]
+
 ```Apr 2021``` [Ros Bebop Research at Hokkai Gakuen Daigaku][ros-bebop]
 
 ### Connect with me:
