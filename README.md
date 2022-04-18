@@ -14,7 +14,7 @@
 
 ### Latest Published Works
 
-```Apr 2021``` [Onoda Boeki][onoda-url]
+```Apr 2022``` [Onoda Boeki][onoda-url]
 
 ```Dec 2021``` [Gustavo Amaral NFT Collection ][nft-url]
 
