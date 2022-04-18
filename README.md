@@ -1,6 +1,6 @@
 ### こんにちは 👋 I'm Toshi!
 
-[![portfolio-url](https://img.shields.io/website?label=UI/UX%20Portfolio&style=for-the-badge&url=https://gtoshinakano.github.io/uiux-profile)](portfolio-url)
+[![portfolio-url](https://img.shields.io/website?label=UI/UX%20Portfolio&style=for-the-badge&url=https://gtoshinakano.github.io/uiux-profile)][portfolio-url]
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/gtoshinakano?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgtoshinakano&screen_name=gtoshinakano) -->
 
 ## I'm a brazilian japanese, JS FullStack developer
