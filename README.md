@@ -1,6 +1,6 @@
-### こんにちは 👋 I'm Toshi! [wedoit.jp][website]
+### こんにちは 👋 I'm Toshi!
 
-[![Website](https://img.shields.io/website?label=wedoit.jp&style=for-the-badge&url=https://wedoit.jp)](wedoit.jp)
+[![portfolio-url](https://img.shields.io/website?label=UI/UX%20Portfolio&style=for-the-badge&url=https://gtoshinakano.github.io/uiux-profile)](portfolio-url)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/gtoshinakano?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgtoshinakano&screen_name=gtoshinakano) -->
 
 ## I'm a brazilian japanese, JS FullStack developer
@@ -13,6 +13,9 @@
 - ⚡ Fun fact: I like skateboarding and classical music 🤣
 
 ### Latest Published Works
+
+```Apr 2021``` [Onoda Boeki][onoda-url]
+
 ```Dec 2021``` [Gustavo Amaral NFT Collection ][nft-url]
 
 ```Jul 2021``` [Hokkaido Association NGO Event Promotion page][hokkaido-url]
@@ -67,3 +70,5 @@
 [reactplaylist]: https://wedoit.jp/
 [nft-url]: https://www.wedoit.jp/nft/gustavo-amaral/time-and-space?src=github
 [hokkaido-url]: https://hokkaido-promo.vercel.app/ishikari-nabe-dia-15-ago-2021
+[portfolio-url]: https://gtoshinakano.github.io/uiux-profile
+[onoda-url]: https://onodaboeki.co.jp
