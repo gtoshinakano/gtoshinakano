@@ -5,7 +5,7 @@
 
 ## I'm a brazilian japanese, JS FullStack developer
 
-- 👨‍💻 If you ask me now "how to build a Web APP?" I will answer NextJS + Firebase Backend
+- 👨‍💻 If you ask me now "how to build a Web APP?" I will answer NextJS + Vercel (Firebase DB || AWS RDS)
 - 🔭 I Did an Overseas Exchange Program on Engineering Japan 2020: [Ros Bebop Research][ros-bebop]!
 - 🌱 I’m currently freelancing and breeding good ideas into new projects
 - 👯 I’m looking to work on web development projects using React, NextJS and NodeJS
